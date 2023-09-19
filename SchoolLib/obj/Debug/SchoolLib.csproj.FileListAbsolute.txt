@@ -1,0 +1,12 @@
+D:\Phase4\PractcieProjects\Section2\SchoolLib\SchoolLib\bin\Debug\SchoolLib.pdb
+D:\Phase4\PractcieProjects\Section2\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.AssemblyReference.cache
+D:\Phase4\PractcieProjects\Section2\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.CoreCompileInputs.cache
+D:\Phase4\PractcieProjects\Section2\SchoolLib\SchoolLib\obj\Debug\SchoolLib.dll
+D:\Phase4\PractcieProjects\Section2\SchoolLib\SchoolLib\obj\Debug\SchoolLib.pdb
+D:\Phase4\PractcieProjects\Section2\SchoolLib\SchoolLib\obj\Debug\SchoolLib.csproj.CopyComplete
+D:\Phase4\SL\Phase2\Project\SchoolLib\bin\Debug\SchoolLib.pdb
+D:\Phase4\SL\Phase2\Project\SchoolLib\obj\Debug\SchoolLib.csproj.AssemblyReference.cache
+D:\Phase4\SL\Phase2\Project\SchoolLib\obj\Debug\SchoolLib.csproj.CoreCompileInputs.cache
+D:\Phase4\SL\Phase2\Project\SchoolLib\obj\Debug\SchoolLib.csproj.CopyComplete
+D:\Phase4\SL\Phase2\Project\SchoolLib\obj\Debug\SchoolLib.dll
+D:\Phase4\SL\Phase2\Project\SchoolLib\obj\Debug\SchoolLib.pdb
